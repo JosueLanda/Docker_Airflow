@@ -1,0 +1,455 @@
+[2021-02-17 02:11:30,071] {scheduler_job.py:182} INFO - Started process (PID=154) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:11:30,073] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:11:30,074] {logging_mixin.py:104} INFO - [2021-02-17 02:11:30,074] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:11:30,680] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:11:30,711] {logging_mixin.py:104} INFO - [2021-02-17 02:11:30,711] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:11:30,769] {logging_mixin.py:104} INFO - [2021-02-17 02:11:30,769] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:11:30,858] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.792 seconds
+[2021-02-17 02:12:01,038] {scheduler_job.py:182} INFO - Started process (PID=160) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:12:01,072] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:12:01,074] {logging_mixin.py:104} INFO - [2021-02-17 02:12:01,074] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:12:01,172] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:12:01,785] {logging_mixin.py:104} INFO - [2021-02-17 02:12:01,785] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:12:01,819] {logging_mixin.py:104} INFO - [2021-02-17 02:12:01,819] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:12:01,896] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.864 seconds
+[2021-02-17 02:12:32,628] {scheduler_job.py:182} INFO - Started process (PID=165) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:12:32,957] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:12:32,960] {logging_mixin.py:104} INFO - [2021-02-17 02:12:32,959] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:12:34,322] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:12:34,912] {logging_mixin.py:104} INFO - [2021-02-17 02:12:34,912] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:12:35,103] {logging_mixin.py:104} INFO - [2021-02-17 02:12:35,103] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:12:35,324] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 2.781 seconds
+[2021-02-17 02:13:07,005] {scheduler_job.py:182} INFO - Started process (PID=170) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:13:07,183] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:13:07,446] {logging_mixin.py:104} INFO - [2021-02-17 02:13:07,446] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:13:13,182] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:13:19,994] {logging_mixin.py:104} INFO - [2021-02-17 02:13:19,951] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:13:23,879] {logging_mixin.py:104} INFO - [2021-02-17 02:13:23,879] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:13:24,907] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 18.279 seconds
+[2021-02-17 02:13:55,576] {scheduler_job.py:182} INFO - Started process (PID=175) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:13:55,842] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:13:55,924] {logging_mixin.py:104} INFO - [2021-02-17 02:13:55,902] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:13:57,723] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:13:58,434] {logging_mixin.py:104} INFO - [2021-02-17 02:13:58,434] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:13:58,812] {logging_mixin.py:104} INFO - [2021-02-17 02:13:58,811] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:13:58,987] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 3.565 seconds
+[2021-02-17 02:14:29,125] {scheduler_job.py:182} INFO - Started process (PID=180) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:14:29,149] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:14:29,151] {logging_mixin.py:104} INFO - [2021-02-17 02:14:29,151] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:14:29,207] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:14:29,406] {logging_mixin.py:104} INFO - [2021-02-17 02:14:29,405] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:14:29,446] {logging_mixin.py:104} INFO - [2021-02-17 02:14:29,446] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:14:29,463] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.343 seconds
+[2021-02-17 02:14:59,572] {scheduler_job.py:182} INFO - Started process (PID=185) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:14:59,735] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:14:59,736] {logging_mixin.py:104} INFO - [2021-02-17 02:14:59,736] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:15:00,245] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:15:01,015] {logging_mixin.py:104} INFO - [2021-02-17 02:15:01,015] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:15:01,336] {logging_mixin.py:104} INFO - [2021-02-17 02:15:01,335] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:15:01,388] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 1.822 seconds
+[2021-02-17 02:15:31,624] {scheduler_job.py:182} INFO - Started process (PID=190) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:15:31,743] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:15:31,779] {logging_mixin.py:104} INFO - [2021-02-17 02:15:31,778] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:15:34,025] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:15:34,743] {logging_mixin.py:104} INFO - [2021-02-17 02:15:34,743] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:15:35,510] {logging_mixin.py:104} INFO - [2021-02-17 02:15:35,510] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:15:35,658] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 4.051 seconds
+[2021-02-17 02:16:05,715] {scheduler_job.py:182} INFO - Started process (PID=195) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:16:05,717] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:16:05,719] {logging_mixin.py:104} INFO - [2021-02-17 02:16:05,718] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:16:05,744] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:16:05,777] {logging_mixin.py:104} INFO - [2021-02-17 02:16:05,776] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:16:05,810] {logging_mixin.py:104} INFO - [2021-02-17 02:16:05,810] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:16:05,828] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.119 seconds
+[2021-02-17 02:16:36,026] {scheduler_job.py:182} INFO - Started process (PID=200) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:16:36,028] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:16:36,029] {logging_mixin.py:104} INFO - [2021-02-17 02:16:36,028] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:16:36,067] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:16:36,145] {logging_mixin.py:104} INFO - [2021-02-17 02:16:36,145] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:16:36,182] {logging_mixin.py:104} INFO - [2021-02-17 02:16:36,182] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:16:36,199] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.179 seconds
+[2021-02-17 02:17:06,284] {scheduler_job.py:182} INFO - Started process (PID=205) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:17:06,291] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:17:06,293] {logging_mixin.py:104} INFO - [2021-02-17 02:17:06,292] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:17:06,311] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:17:06,343] {logging_mixin.py:104} INFO - [2021-02-17 02:17:06,343] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:17:06,418] {logging_mixin.py:104} INFO - [2021-02-17 02:17:06,418] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:17:06,438] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.159 seconds
+[2021-02-17 02:17:36,523] {scheduler_job.py:182} INFO - Started process (PID=210) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:17:36,525] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:17:36,527] {logging_mixin.py:104} INFO - [2021-02-17 02:17:36,526] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:17:36,549] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:17:36,584] {logging_mixin.py:104} INFO - [2021-02-17 02:17:36,584] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:17:36,619] {logging_mixin.py:104} INFO - [2021-02-17 02:17:36,618] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:17:36,639] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.123 seconds
+[2021-02-17 02:18:06,741] {scheduler_job.py:182} INFO - Started process (PID=215) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:18:06,743] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:18:06,744] {logging_mixin.py:104} INFO - [2021-02-17 02:18:06,744] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:18:06,764] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:18:06,797] {logging_mixin.py:104} INFO - [2021-02-17 02:18:06,797] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:18:06,830] {logging_mixin.py:104} INFO - [2021-02-17 02:18:06,830] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:18:06,865] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.130 seconds
+[2021-02-17 02:18:36,953] {scheduler_job.py:182} INFO - Started process (PID=220) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:18:36,975] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:18:36,977] {logging_mixin.py:104} INFO - [2021-02-17 02:18:36,976] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:18:36,997] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:18:37,031] {logging_mixin.py:104} INFO - [2021-02-17 02:18:37,031] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:18:37,067] {logging_mixin.py:104} INFO - [2021-02-17 02:18:37,066] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:18:37,112] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.165 seconds
+[2021-02-17 02:19:07,216] {scheduler_job.py:182} INFO - Started process (PID=225) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:19:07,244] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:19:07,245] {logging_mixin.py:104} INFO - [2021-02-17 02:19:07,245] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:19:07,267] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:19:07,300] {logging_mixin.py:104} INFO - [2021-02-17 02:19:07,300] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:19:07,348] {logging_mixin.py:104} INFO - [2021-02-17 02:19:07,348] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:19:07,393] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.198 seconds
+[2021-02-17 02:19:37,586] {scheduler_job.py:182} INFO - Started process (PID=230) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:19:37,615] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:19:37,617] {logging_mixin.py:104} INFO - [2021-02-17 02:19:37,617] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:19:37,695] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:19:37,832] {logging_mixin.py:104} INFO - [2021-02-17 02:19:37,832] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:19:37,950] {logging_mixin.py:104} INFO - [2021-02-17 02:19:37,950] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:19:38,021] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.477 seconds
+[2021-02-17 02:20:08,173] {scheduler_job.py:182} INFO - Started process (PID=235) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:20:08,201] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:20:08,203] {logging_mixin.py:104} INFO - [2021-02-17 02:20:08,203] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:20:08,232] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:20:08,275] {logging_mixin.py:104} INFO - [2021-02-17 02:20:08,275] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:20:08,325] {logging_mixin.py:104} INFO - [2021-02-17 02:20:08,325] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:20:08,366] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.201 seconds
+[2021-02-17 02:20:38,463] {scheduler_job.py:182} INFO - Started process (PID=240) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:20:38,465] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:20:38,466] {logging_mixin.py:104} INFO - [2021-02-17 02:20:38,466] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:20:38,487] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:20:38,535] {logging_mixin.py:104} INFO - [2021-02-17 02:20:38,535] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:20:38,586] {logging_mixin.py:104} INFO - [2021-02-17 02:20:38,586] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:20:38,616] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.158 seconds
+[2021-02-17 02:21:08,723] {scheduler_job.py:182} INFO - Started process (PID=245) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:21:08,727] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:21:08,729] {logging_mixin.py:104} INFO - [2021-02-17 02:21:08,728] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:21:08,749] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:21:08,783] {logging_mixin.py:104} INFO - [2021-02-17 02:21:08,783] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:21:08,833] {logging_mixin.py:104} INFO - [2021-02-17 02:21:08,832] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:21:08,862] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.149 seconds
+[2021-02-17 02:27:00,283] {scheduler_job.py:182} INFO - Started process (PID=155) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:27:00,285] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:27:00,286] {logging_mixin.py:104} INFO - [2021-02-17 02:27:00,286] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:27:00,352] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:27:00,421] {logging_mixin.py:104} INFO - [2021-02-17 02:27:00,421] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:27:00,530] {logging_mixin.py:104} INFO - [2021-02-17 02:27:00,530] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:27:00,555] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.285 seconds
+[2021-02-17 02:27:30,717] {scheduler_job.py:182} INFO - Started process (PID=161) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:27:30,732] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:27:30,740] {logging_mixin.py:104} INFO - [2021-02-17 02:27:30,740] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:27:30,792] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:27:30,867] {logging_mixin.py:104} INFO - [2021-02-17 02:27:30,867] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:27:30,936] {logging_mixin.py:104} INFO - [2021-02-17 02:27:30,936] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:27:30,990] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.291 seconds
+[2021-02-17 02:28:01,161] {scheduler_job.py:182} INFO - Started process (PID=166) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:28:01,164] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:28:01,173] {logging_mixin.py:104} INFO - [2021-02-17 02:28:01,173] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:28:01,225] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:28:01,280] {logging_mixin.py:104} INFO - [2021-02-17 02:28:01,279] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:28:01,328] {logging_mixin.py:104} INFO - [2021-02-17 02:28:01,327] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:28:01,422] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.285 seconds
+[2021-02-17 02:28:31,607] {scheduler_job.py:182} INFO - Started process (PID=171) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:28:31,685] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:28:31,687] {logging_mixin.py:104} INFO - [2021-02-17 02:28:31,687] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:28:31,947] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:28:32,085] {logging_mixin.py:104} INFO - [2021-02-17 02:28:32,085] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:28:32,121] {logging_mixin.py:104} INFO - [2021-02-17 02:28:32,121] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:28:32,227] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.625 seconds
+[2021-02-17 02:29:02,325] {scheduler_job.py:182} INFO - Started process (PID=176) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:29:02,359] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:29:02,362] {logging_mixin.py:104} INFO - [2021-02-17 02:29:02,361] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:29:02,386] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:29:02,456] {logging_mixin.py:104} INFO - [2021-02-17 02:29:02,456] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:29:02,526] {logging_mixin.py:104} INFO - [2021-02-17 02:29:02,526] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:29:02,557] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.237 seconds
+[2021-02-17 02:29:32,659] {scheduler_job.py:182} INFO - Started process (PID=181) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:29:32,662] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:29:32,663] {logging_mixin.py:104} INFO - [2021-02-17 02:29:32,663] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:29:32,680] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:29:32,714] {logging_mixin.py:104} INFO - [2021-02-17 02:29:32,714] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:29:32,745] {logging_mixin.py:104} INFO - [2021-02-17 02:29:32,745] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:29:32,760] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.106 seconds
+[2021-02-17 02:30:02,819] {scheduler_job.py:182} INFO - Started process (PID=186) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:30:02,851] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:30:02,853] {logging_mixin.py:104} INFO - [2021-02-17 02:30:02,853] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:30:02,878] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:30:02,908] {logging_mixin.py:104} INFO - [2021-02-17 02:30:02,908] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:30:02,939] {logging_mixin.py:104} INFO - [2021-02-17 02:30:02,939] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:30:02,962] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.147 seconds
+[2021-02-17 02:30:33,055] {scheduler_job.py:182} INFO - Started process (PID=191) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:30:33,058] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:30:33,060] {logging_mixin.py:104} INFO - [2021-02-17 02:30:33,059] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:30:33,082] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:30:33,113] {logging_mixin.py:104} INFO - [2021-02-17 02:30:33,113] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:30:33,143] {logging_mixin.py:104} INFO - [2021-02-17 02:30:33,142] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:30:33,163] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.113 seconds
+[2021-02-17 02:31:03,257] {scheduler_job.py:182} INFO - Started process (PID=196) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:31:03,283] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:31:03,284] {logging_mixin.py:104} INFO - [2021-02-17 02:31:03,284] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:31:03,310] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:31:03,344] {logging_mixin.py:104} INFO - [2021-02-17 02:31:03,343] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:31:03,390] {logging_mixin.py:104} INFO - [2021-02-17 02:31:03,389] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:31:03,406] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.155 seconds
+[2021-02-17 02:33:25,014] {scheduler_job.py:182} INFO - Started process (PID=154) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:33:25,019] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:33:25,020] {logging_mixin.py:104} INFO - [2021-02-17 02:33:25,020] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:33:25,037] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:33:25,073] {logging_mixin.py:104} INFO - [2021-02-17 02:33:25,072] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:33:25,114] {logging_mixin.py:104} INFO - [2021-02-17 02:33:25,114] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:33:25,153] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.144 seconds
+[2021-02-17 02:33:55,364] {scheduler_job.py:182} INFO - Started process (PID=160) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:33:55,374] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:33:55,376] {logging_mixin.py:104} INFO - [2021-02-17 02:33:55,376] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:33:55,494] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:33:55,656] {logging_mixin.py:104} INFO - [2021-02-17 02:33:55,656] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:33:55,802] {logging_mixin.py:104} INFO - [2021-02-17 02:33:55,802] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:33:55,880] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.572 seconds
+[2021-02-17 02:34:26,802] {scheduler_job.py:182} INFO - Started process (PID=165) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:34:26,822] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:34:26,823] {logging_mixin.py:104} INFO - [2021-02-17 02:34:26,823] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:34:27,256] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:34:27,480] {logging_mixin.py:104} INFO - [2021-02-17 02:34:27,480] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:34:27,551] {logging_mixin.py:104} INFO - [2021-02-17 02:34:27,551] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:34:27,585] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.798 seconds
+[2021-02-17 02:34:58,134] {scheduler_job.py:182} INFO - Started process (PID=170) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:34:58,197] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:34:58,199] {logging_mixin.py:104} INFO - [2021-02-17 02:34:58,199] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:34:58,476] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:34:59,192] {logging_mixin.py:104} INFO - [2021-02-17 02:34:59,192] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:34:59,261] {logging_mixin.py:104} INFO - [2021-02-17 02:34:59,261] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:34:59,383] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 1.268 seconds
+[2021-02-17 02:35:31,526] {scheduler_job.py:182} INFO - Started process (PID=175) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:35:31,860] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:35:31,882] {logging_mixin.py:104} INFO - [2021-02-17 02:35:31,882] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:35:33,496] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:35:33,916] {logging_mixin.py:104} INFO - [2021-02-17 02:35:33,915] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:35:34,192] {logging_mixin.py:104} INFO - [2021-02-17 02:35:34,191] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:35:34,294] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 3.528 seconds
+[2021-02-17 02:36:04,458] {scheduler_job.py:182} INFO - Started process (PID=180) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:36:04,517] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:36:04,519] {logging_mixin.py:104} INFO - [2021-02-17 02:36:04,519] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:36:04,543] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:36:04,705] {logging_mixin.py:104} INFO - [2021-02-17 02:36:04,704] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:36:04,834] {logging_mixin.py:104} INFO - [2021-02-17 02:36:04,834] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:36:04,885] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.487 seconds
+[2021-02-17 02:36:35,174] {scheduler_job.py:182} INFO - Started process (PID=185) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:36:35,233] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 02:36:35,248] {logging_mixin.py:104} INFO - [2021-02-17 02:36:35,235] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:36:35,394] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 02:36:35,483] {logging_mixin.py:104} INFO - [2021-02-17 02:36:35,483] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 02:36:35,605] {logging_mixin.py:104} INFO - [2021-02-17 02:36:35,605] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 02:36:35,667] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.584 seconds
+[2021-02-17 03:12:20,073] {scheduler_job.py:182} INFO - Started process (PID=155) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:12:20,087] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:12:20,088] {logging_mixin.py:104} INFO - [2021-02-17 03:12:20,088] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:12:20,149] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:12:20,176] {logging_mixin.py:104} INFO - [2021-02-17 03:12:20,176] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:12:20,207] {logging_mixin.py:104} INFO - [2021-02-17 03:12:20,207] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:12:20,236] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.168 seconds
+[2021-02-17 03:12:50,330] {scheduler_job.py:182} INFO - Started process (PID=160) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:12:50,335] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:12:50,336] {logging_mixin.py:104} INFO - [2021-02-17 03:12:50,336] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:12:50,360] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:12:50,403] {logging_mixin.py:104} INFO - [2021-02-17 03:12:50,403] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:12:50,445] {logging_mixin.py:104} INFO - [2021-02-17 03:12:50,444] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:12:50,460] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.145 seconds
+[2021-02-17 03:13:03,321] {scheduler_job.py:182} INFO - Started process (PID=155) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:13:03,326] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:13:03,332] {logging_mixin.py:104} INFO - [2021-02-17 03:13:03,332] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:13:03,365] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:13:03,396] {logging_mixin.py:104} INFO - [2021-02-17 03:13:03,396] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:13:03,428] {logging_mixin.py:104} INFO - [2021-02-17 03:13:03,428] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:13:03,482] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.165 seconds
+[2021-02-17 03:13:22,600] {scheduler_job.py:182} INFO - Started process (PID=155) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:13:22,602] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:13:22,605] {logging_mixin.py:104} INFO - [2021-02-17 03:13:22,605] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:13:22,656] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:13:22,692] {logging_mixin.py:104} INFO - [2021-02-17 03:13:22,691] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:13:22,736] {logging_mixin.py:104} INFO - [2021-02-17 03:13:22,736] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:13:22,783] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.187 seconds
+[2021-02-17 03:13:52,862] {scheduler_job.py:182} INFO - Started process (PID=160) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:13:52,864] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:13:52,865] {logging_mixin.py:104} INFO - [2021-02-17 03:13:52,865] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:13:52,911] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:13:52,980] {logging_mixin.py:104} INFO - [2021-02-17 03:13:52,980] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:13:53,068] {logging_mixin.py:104} INFO - [2021-02-17 03:13:53,067] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:13:53,088] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.233 seconds
+[2021-02-17 03:14:23,623] {scheduler_job.py:182} INFO - Started process (PID=165) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:14:23,674] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:14:23,676] {logging_mixin.py:104} INFO - [2021-02-17 03:14:23,675] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:14:23,966] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:14:24,028] {logging_mixin.py:104} INFO - [2021-02-17 03:14:24,027] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:14:24,099] {logging_mixin.py:104} INFO - [2021-02-17 03:14:24,099] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:14:24,166] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.561 seconds
+[2021-02-17 03:14:54,847] {scheduler_job.py:182} INFO - Started process (PID=170) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:14:54,909] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:14:54,911] {logging_mixin.py:104} INFO - [2021-02-17 03:14:54,911] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:14:55,809] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:14:56,545] {logging_mixin.py:104} INFO - [2021-02-17 03:14:56,545] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:14:56,581] {logging_mixin.py:104} INFO - [2021-02-17 03:14:56,581] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:14:56,646] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 1.867 seconds
+[2021-02-17 03:15:27,624] {scheduler_job.py:182} INFO - Started process (PID=175) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:15:28,445] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:15:28,448] {logging_mixin.py:104} INFO - [2021-02-17 03:15:28,448] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:15:30,769] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:15:32,419] {logging_mixin.py:104} INFO - [2021-02-17 03:15:32,419] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:15:34,455] {logging_mixin.py:104} INFO - [2021-02-17 03:15:34,454] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:15:34,613] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 6.994 seconds
+[2021-02-17 03:16:05,113] {scheduler_job.py:182} INFO - Started process (PID=180) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:16:05,114] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:16:05,318] {logging_mixin.py:104} INFO - [2021-02-17 03:16:05,318] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:16:05,714] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:16:05,831] {logging_mixin.py:104} INFO - [2021-02-17 03:16:05,831] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:16:06,036] {logging_mixin.py:104} INFO - [2021-02-17 03:16:06,036] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:16:06,688] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 1.581 seconds
+[2021-02-17 03:16:38,785] {scheduler_job.py:182} INFO - Started process (PID=185) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:16:39,013] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:16:39,014] {logging_mixin.py:104} INFO - [2021-02-17 03:16:39,014] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:16:40,592] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:16:42,381] {logging_mixin.py:104} INFO - [2021-02-17 03:16:42,381] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:16:45,604] {logging_mixin.py:104} INFO - [2021-02-17 03:16:45,604] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:16:46,483] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 8.244 seconds
+[2021-02-17 03:17:17,386] {scheduler_job.py:182} INFO - Started process (PID=190) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:17:17,423] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:17:17,512] {logging_mixin.py:104} INFO - [2021-02-17 03:17:17,424] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:17:18,759] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:17:19,180] {logging_mixin.py:104} INFO - [2021-02-17 03:17:19,180] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:17:19,504] {logging_mixin.py:104} INFO - [2021-02-17 03:17:19,504] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:17:19,590] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 2.633 seconds
+[2021-02-17 03:17:49,739] {scheduler_job.py:182} INFO - Started process (PID=195) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:17:49,740] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:17:49,741] {logging_mixin.py:104} INFO - [2021-02-17 03:17:49,741] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:17:49,763] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:17:49,806] {logging_mixin.py:104} INFO - [2021-02-17 03:17:49,806] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:17:49,876] {logging_mixin.py:104} INFO - [2021-02-17 03:17:49,875] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:17:50,048] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.315 seconds
+[2021-02-17 03:18:20,140] {scheduler_job.py:182} INFO - Started process (PID=200) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:18:20,142] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:18:20,143] {logging_mixin.py:104} INFO - [2021-02-17 03:18:20,143] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:18:20,172] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:18:20,225] {logging_mixin.py:104} INFO - [2021-02-17 03:18:20,225] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:18:20,269] {logging_mixin.py:104} INFO - [2021-02-17 03:18:20,269] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:18:20,305] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.171 seconds
+[2021-02-17 03:18:50,424] {scheduler_job.py:182} INFO - Started process (PID=205) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:18:50,426] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:18:50,427] {logging_mixin.py:104} INFO - [2021-02-17 03:18:50,427] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:18:50,450] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:18:50,484] {logging_mixin.py:104} INFO - [2021-02-17 03:18:50,484] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:18:50,518] {logging_mixin.py:104} INFO - [2021-02-17 03:18:50,517] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:18:50,609] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.194 seconds
+[2021-02-17 03:19:20,727] {scheduler_job.py:182} INFO - Started process (PID=210) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:19:20,758] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:19:20,760] {logging_mixin.py:104} INFO - [2021-02-17 03:19:20,759] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:19:20,780] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:19:20,812] {logging_mixin.py:104} INFO - [2021-02-17 03:19:20,812] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:19:20,842] {logging_mixin.py:104} INFO - [2021-02-17 03:19:20,842] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:19:20,876] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.155 seconds
+[2021-02-17 03:19:51,015] {scheduler_job.py:182} INFO - Started process (PID=215) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:19:51,017] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:19:51,021] {logging_mixin.py:104} INFO - [2021-02-17 03:19:51,020] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:19:51,050] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:19:51,085] {logging_mixin.py:104} INFO - [2021-02-17 03:19:51,085] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:19:51,120] {logging_mixin.py:104} INFO - [2021-02-17 03:19:51,120] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:19:51,153] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.145 seconds
+[2021-02-17 03:20:21,247] {scheduler_job.py:182} INFO - Started process (PID=220) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:20:21,249] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:20:21,251] {logging_mixin.py:104} INFO - [2021-02-17 03:20:21,251] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:20:21,277] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:20:21,329] {logging_mixin.py:104} INFO - [2021-02-17 03:20:21,329] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:20:21,384] {logging_mixin.py:104} INFO - [2021-02-17 03:20:21,384] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:20:21,433] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.193 seconds
+[2021-02-17 03:21:20,607] {scheduler_job.py:182} INFO - Started process (PID=157) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:21:20,608] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:21:20,618] {logging_mixin.py:104} INFO - [2021-02-17 03:21:20,618] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:21:20,685] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:21:20,826] {logging_mixin.py:104} INFO - [2021-02-17 03:21:20,826] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:21:21,162] {logging_mixin.py:104} INFO - [2021-02-17 03:21:21,162] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:21:21,261] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.668 seconds
+[2021-02-17 03:21:51,438] {scheduler_job.py:182} INFO - Started process (PID=165) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:21:51,440] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:21:51,442] {logging_mixin.py:104} INFO - [2021-02-17 03:21:51,441] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:21:51,464] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:21:51,567] {logging_mixin.py:104} INFO - [2021-02-17 03:21:51,567] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:21:51,631] {logging_mixin.py:104} INFO - [2021-02-17 03:21:51,631] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:21:51,675] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.244 seconds
+[2021-02-17 03:22:22,041] {scheduler_job.py:182} INFO - Started process (PID=177) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:22:22,107] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:22:22,109] {logging_mixin.py:104} INFO - [2021-02-17 03:22:22,109] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:22:22,216] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:22:22,418] {logging_mixin.py:104} INFO - [2021-02-17 03:22:22,418] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:22:22,566] {logging_mixin.py:104} INFO - [2021-02-17 03:22:22,566] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:22:22,662] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.632 seconds
+[2021-02-17 03:22:53,014] {scheduler_job.py:182} INFO - Started process (PID=187) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:22:53,016] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:22:53,017] {logging_mixin.py:104} INFO - [2021-02-17 03:22:53,017] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:22:53,069] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:22:53,226] {logging_mixin.py:104} INFO - [2021-02-17 03:22:53,225] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:22:53,291] {logging_mixin.py:104} INFO - [2021-02-17 03:22:53,291] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:22:53,354] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.356 seconds
+[2021-02-17 03:23:23,641] {scheduler_job.py:182} INFO - Started process (PID=196) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:23:23,643] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:23:23,644] {logging_mixin.py:104} INFO - [2021-02-17 03:23:23,644] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:23:23,688] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:23:23,778] {logging_mixin.py:104} INFO - [2021-02-17 03:23:23,778] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:23:23,834] {logging_mixin.py:104} INFO - [2021-02-17 03:23:23,834] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:23:23,935] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.299 seconds
+[2021-02-17 03:23:54,137] {scheduler_job.py:182} INFO - Started process (PID=212) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:23:54,139] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:23:54,140] {logging_mixin.py:104} INFO - [2021-02-17 03:23:54,140] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:23:54,185] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:23:54,241] {logging_mixin.py:104} INFO - [2021-02-17 03:23:54,241] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:23:54,304] {logging_mixin.py:104} INFO - [2021-02-17 03:23:54,304] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:23:54,335] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.204 seconds
+[2021-02-17 03:24:24,544] {scheduler_job.py:182} INFO - Started process (PID=223) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:24:24,547] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:24:24,548] {logging_mixin.py:104} INFO - [2021-02-17 03:24:24,548] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:24:24,590] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:24:24,650] {logging_mixin.py:104} INFO - [2021-02-17 03:24:24,650] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:24:24,728] {logging_mixin.py:104} INFO - [2021-02-17 03:24:24,728] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:24:24,776] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.243 seconds
+[2021-02-17 03:24:55,000] {scheduler_job.py:182} INFO - Started process (PID=232) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:24:55,003] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:24:55,005] {logging_mixin.py:104} INFO - [2021-02-17 03:24:55,004] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:24:55,027] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:24:55,069] {logging_mixin.py:104} INFO - [2021-02-17 03:24:55,069] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:24:55,110] {logging_mixin.py:104} INFO - [2021-02-17 03:24:55,110] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:24:55,133] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.139 seconds
+[2021-02-17 03:25:25,355] {scheduler_job.py:182} INFO - Started process (PID=242) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:25:25,369] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:25:25,370] {logging_mixin.py:104} INFO - [2021-02-17 03:25:25,370] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:25:25,407] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:25:25,454] {logging_mixin.py:104} INFO - [2021-02-17 03:25:25,454] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:25:25,520] {logging_mixin.py:104} INFO - [2021-02-17 03:25:25,520] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:25:25,601] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.252 seconds
+[2021-02-17 03:25:55,813] {scheduler_job.py:182} INFO - Started process (PID=252) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:25:55,815] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:25:55,816] {logging_mixin.py:104} INFO - [2021-02-17 03:25:55,816] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:25:55,862] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:25:55,918] {logging_mixin.py:104} INFO - [2021-02-17 03:25:55,918] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:25:55,982] {logging_mixin.py:104} INFO - [2021-02-17 03:25:55,982] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:25:56,020] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.212 seconds
+[2021-02-17 03:26:26,302] {scheduler_job.py:182} INFO - Started process (PID=263) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:26:26,303] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:26:26,304] {logging_mixin.py:104} INFO - [2021-02-17 03:26:26,304] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:26:26,420] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:26:26,541] {logging_mixin.py:104} INFO - [2021-02-17 03:26:26,541] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:26:26,659] {logging_mixin.py:104} INFO - [2021-02-17 03:26:26,659] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:26:26,741] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.460 seconds
+[2021-02-17 03:26:56,907] {scheduler_job.py:182} INFO - Started process (PID=273) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:26:56,912] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:26:56,914] {logging_mixin.py:104} INFO - [2021-02-17 03:26:56,913] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:26:56,946] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:26:56,986] {logging_mixin.py:104} INFO - [2021-02-17 03:26:56,986] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:26:57,017] {logging_mixin.py:104} INFO - [2021-02-17 03:26:57,016] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:26:57,050] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.149 seconds
+[2021-02-17 03:27:27,159] {scheduler_job.py:182} INFO - Started process (PID=282) to work on /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:27:27,190] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_libraries.py for tasks to queue
+[2021-02-17 03:27:27,191] {logging_mixin.py:104} INFO - [2021-02-17 03:27:27,191] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:27:27,232] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['libraries']) retrieved from /opt/airflow/dags/dag_libraries.py
+[2021-02-17 03:27:27,264] {logging_mixin.py:104} INFO - [2021-02-17 03:27:27,264] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 03:27:27,296] {logging_mixin.py:104} INFO - [2021-02-17 03:27:27,295] {dag.py:2273} INFO - Setting next_dagrun for libraries to 2021-02-15 00:00:00+00:00
+[2021-02-17 03:27:27,329] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_libraries.py took 0.176 seconds
