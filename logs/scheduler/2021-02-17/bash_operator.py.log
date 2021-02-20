@@ -1,0 +1,602 @@
+[2021-02-17 04:07:54,154] {scheduler_job.py:182} INFO - Started process (PID=1236) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:07:54,155] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:07:54,156] {logging_mixin.py:104} INFO - [2021-02-17 04:07:54,156] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:07:54,385] {logging_mixin.py:104} INFO - [2021-02-17 04:07:54,326] {dagbag.py:305} ERROR - Failed to import: /opt/airflow/dags/bash_operator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 302, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/bash_operator.py", line 9, in <module>
+    with models.DAG(
+NameError: name 'models' is not defined
+[2021-02-17 04:07:54,386] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:07:54,721] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.573 seconds
+[2021-02-17 04:08:24,860] {scheduler_job.py:182} INFO - Started process (PID=1241) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:08:24,862] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:08:24,863] {logging_mixin.py:104} INFO - [2021-02-17 04:08:24,863] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:08:24,870] {logging_mixin.py:104} INFO - [2021-02-17 04:08:24,869] {dagbag.py:305} ERROR - Failed to import: /opt/airflow/dags/bash_operator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 302, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/bash_operator.py", line 9, in <module>
+    with models.DAG(
+NameError: name 'models' is not defined
+[2021-02-17 04:08:24,871] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:08:24,921] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.066 seconds
+[2021-02-17 04:08:55,038] {scheduler_job.py:182} INFO - Started process (PID=1246) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:08:55,271] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:08:55,275] {logging_mixin.py:104} INFO - [2021-02-17 04:08:55,274] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:08:55,284] {logging_mixin.py:104} INFO - [2021-02-17 04:08:55,282] {dagbag.py:305} ERROR - Failed to import: /opt/airflow/dags/bash_operator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 302, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/bash_operator.py", line 9, in <module>
+    with models.DAG(
+NameError: name 'models' is not defined
+[2021-02-17 04:08:55,284] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:08:55,490] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.458 seconds
+[2021-02-17 04:09:25,595] {scheduler_job.py:182} INFO - Started process (PID=1251) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:09:25,648] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:09:25,650] {logging_mixin.py:104} INFO - [2021-02-17 04:09:25,649] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:09:25,657] {logging_mixin.py:104} INFO - [2021-02-17 04:09:25,655] {dagbag.py:305} ERROR - Failed to import: /opt/airflow/dags/bash_operator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 302, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/bash_operator.py", line 9, in <module>
+    with models.DAG(
+NameError: name 'models' is not defined
+[2021-02-17 04:09:25,657] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:09:25,753] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.164 seconds
+[2021-02-17 04:09:55,850] {scheduler_job.py:182} INFO - Started process (PID=1256) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:09:55,854] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:09:55,856] {logging_mixin.py:104} INFO - [2021-02-17 04:09:55,855] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:09:55,864] {logging_mixin.py:104} INFO - [2021-02-17 04:09:55,862] {dagbag.py:305} ERROR - Failed to import: /opt/airflow/dags/bash_operator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 302, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/bash_operator.py", line 9, in <module>
+    with models.DAG(
+NameError: name 'models' is not defined
+[2021-02-17 04:09:55,865] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:09:55,924] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.082 seconds
+[2021-02-17 04:10:25,988] {scheduler_job.py:182} INFO - Started process (PID=1261) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:10:25,990] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:10:25,992] {logging_mixin.py:104} INFO - [2021-02-17 04:10:25,991] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:10:26,001] {logging_mixin.py:104} INFO - [2021-02-17 04:10:26,000] {dagbag.py:305} ERROR - Failed to import: /opt/airflow/dags/bash_operator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 302, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/bash_operator.py", line 9, in <module>
+    with models.DAG(
+NameError: name 'models' is not defined
+[2021-02-17 04:10:26,002] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:10:26,047] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.066 seconds
+[2021-02-17 04:10:56,142] {scheduler_job.py:182} INFO - Started process (PID=1266) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:10:56,144] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:10:56,145] {logging_mixin.py:104} INFO - [2021-02-17 04:10:56,145] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:10:56,152] {logging_mixin.py:104} INFO - [2021-02-17 04:10:56,151] {dagbag.py:305} ERROR - Failed to import: /opt/airflow/dags/bash_operator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 302, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/bash_operator.py", line 9, in <module>
+    with models.DAG(
+NameError: name 'models' is not defined
+[2021-02-17 04:10:56,153] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:10:56,211] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.075 seconds
+[2021-02-17 04:11:26,275] {scheduler_job.py:182} INFO - Started process (PID=1271) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:11:26,277] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:11:26,278] {logging_mixin.py:104} INFO - [2021-02-17 04:11:26,278] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:11:26,285] {logging_mixin.py:104} INFO - [2021-02-17 04:11:26,283] {dagbag.py:305} ERROR - Failed to import: /opt/airflow/dags/bash_operator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 302, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/bash_operator.py", line 9, in <module>
+    with models.DAG(
+NameError: name 'models' is not defined
+[2021-02-17 04:11:26,285] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:11:26,330] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.060 seconds
+[2021-02-17 04:12:19,757] {scheduler_job.py:182} INFO - Started process (PID=154) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:12:19,759] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:12:19,765] {logging_mixin.py:104} INFO - [2021-02-17 04:12:19,765] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:12:19,826] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:12:19,965] {logging_mixin.py:104} INFO - [2021-02-17 04:12:19,965] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:12:20,036] {logging_mixin.py:104} INFO - [2021-02-17 04:12:20,036] {dag.py:1837} INFO - Creating ORM DAG for tutorial
+[2021-02-17 04:12:20,094] {logging_mixin.py:104} INFO - [2021-02-17 04:12:20,093] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-15 00:00:00+00:00
+[2021-02-17 04:12:20,339] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.587 seconds
+[2021-02-17 04:12:50,442] {scheduler_job.py:182} INFO - Started process (PID=160) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:12:50,444] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:12:50,445] {logging_mixin.py:104} INFO - [2021-02-17 04:12:50,445] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:12:50,468] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:12:50,544] {logging_mixin.py:104} INFO - [2021-02-17 04:12:50,544] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:12:50,598] {logging_mixin.py:104} INFO - [2021-02-17 04:12:50,598] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-15 00:00:00+00:00
+[2021-02-17 04:12:50,658] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.223 seconds
+[2021-02-17 04:13:21,318] {scheduler_job.py:182} INFO - Started process (PID=165) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:13:21,339] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:13:21,340] {logging_mixin.py:104} INFO - [2021-02-17 04:13:21,340] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:13:21,566] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:13:21,913] {logging_mixin.py:104} INFO - [2021-02-17 04:13:21,913] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:13:22,010] {logging_mixin.py:104} INFO - [2021-02-17 04:13:22,010] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-15 00:00:00+00:00
+[2021-02-17 04:13:22,236] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.941 seconds
+[2021-02-17 04:13:52,609] {scheduler_job.py:182} INFO - Started process (PID=170) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:13:52,641] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:13:52,643] {logging_mixin.py:104} INFO - [2021-02-17 04:13:52,642] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:13:52,713] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:13:52,862] {logging_mixin.py:104} INFO - [2021-02-17 04:13:52,862] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:13:52,978] {logging_mixin.py:104} INFO - [2021-02-17 04:13:52,978] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-15 00:00:00+00:00
+[2021-02-17 04:13:53,419] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.830 seconds
+[2021-02-17 04:14:24,685] {scheduler_job.py:182} INFO - Started process (PID=181) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:14:24,745] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:14:24,869] {logging_mixin.py:104} INFO - [2021-02-17 04:14:24,868] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:14:26,268] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:14:26,914] {logging_mixin.py:104} INFO - [2021-02-17 04:14:26,914] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:14:27,092] {logging_mixin.py:104} INFO - [2021-02-17 04:14:27,092] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:14:27,236] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 2.565 seconds
+[2021-02-17 04:14:58,387] {scheduler_job.py:182} INFO - Started process (PID=199) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:14:58,424] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:14:58,426] {logging_mixin.py:104} INFO - [2021-02-17 04:14:58,425] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:14:58,743] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:14:59,378] {logging_mixin.py:104} INFO - [2021-02-17 04:14:59,378] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:15:00,003] {logging_mixin.py:104} INFO - [2021-02-17 04:15:00,003] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:15:00,221] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 2.084 seconds
+[2021-02-17 04:15:30,484] {scheduler_job.py:182} INFO - Started process (PID=212) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:15:30,486] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:15:30,487] {logging_mixin.py:104} INFO - [2021-02-17 04:15:30,487] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:15:30,508] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:15:30,542] {logging_mixin.py:104} INFO - [2021-02-17 04:15:30,542] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:15:30,568] {logging_mixin.py:104} INFO - [2021-02-17 04:15:30,568] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:15:30,648] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.170 seconds
+[2021-02-17 04:16:00,743] {scheduler_job.py:182} INFO - Started process (PID=217) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:16:00,884] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:16:00,885] {logging_mixin.py:104} INFO - [2021-02-17 04:16:00,885] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:16:00,910] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:16:00,951] {logging_mixin.py:104} INFO - [2021-02-17 04:16:00,950] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:16:00,981] {logging_mixin.py:104} INFO - [2021-02-17 04:16:00,981] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:16:01,052] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.316 seconds
+[2021-02-17 04:16:31,145] {scheduler_job.py:182} INFO - Started process (PID=222) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:16:31,147] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:16:31,147] {logging_mixin.py:104} INFO - [2021-02-17 04:16:31,147] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:16:31,166] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:16:31,200] {logging_mixin.py:104} INFO - [2021-02-17 04:16:31,200] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:16:31,223] {logging_mixin.py:104} INFO - [2021-02-17 04:16:31,223] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:16:31,287] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.147 seconds
+[2021-02-17 04:17:01,373] {scheduler_job.py:182} INFO - Started process (PID=227) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:17:01,375] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:17:01,376] {logging_mixin.py:104} INFO - [2021-02-17 04:17:01,376] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:17:01,396] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:17:01,431] {logging_mixin.py:104} INFO - [2021-02-17 04:17:01,431] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:17:01,459] {logging_mixin.py:104} INFO - [2021-02-17 04:17:01,458] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:17:01,578] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.212 seconds
+[2021-02-17 04:17:31,739] {scheduler_job.py:182} INFO - Started process (PID=232) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:17:31,741] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:17:31,742] {logging_mixin.py:104} INFO - [2021-02-17 04:17:31,742] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:17:31,760] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:17:31,795] {logging_mixin.py:104} INFO - [2021-02-17 04:17:31,795] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:17:31,818] {logging_mixin.py:104} INFO - [2021-02-17 04:17:31,818] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:17:31,868] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.134 seconds
+[2021-02-17 04:18:01,959] {scheduler_job.py:182} INFO - Started process (PID=237) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:18:01,965] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:18:01,967] {logging_mixin.py:104} INFO - [2021-02-17 04:18:01,966] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:18:01,982] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:18:02,017] {logging_mixin.py:104} INFO - [2021-02-17 04:18:02,016] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:18:02,041] {logging_mixin.py:104} INFO - [2021-02-17 04:18:02,041] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:18:02,102] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.149 seconds
+[2021-02-17 04:18:32,150] {scheduler_job.py:182} INFO - Started process (PID=242) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:18:32,152] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:18:32,153] {logging_mixin.py:104} INFO - [2021-02-17 04:18:32,153] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:18:32,168] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:18:32,203] {logging_mixin.py:104} INFO - [2021-02-17 04:18:32,202] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:18:32,227] {logging_mixin.py:104} INFO - [2021-02-17 04:18:32,226] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:18:32,262] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.117 seconds
+[2021-02-17 04:19:02,348] {scheduler_job.py:182} INFO - Started process (PID=247) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:19:02,350] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:19:02,351] {logging_mixin.py:104} INFO - [2021-02-17 04:19:02,351] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:19:02,369] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:19:02,410] {logging_mixin.py:104} INFO - [2021-02-17 04:19:02,410] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:19:02,437] {logging_mixin.py:104} INFO - [2021-02-17 04:19:02,437] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:19:02,479] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.137 seconds
+[2021-02-17 04:19:32,584] {scheduler_job.py:182} INFO - Started process (PID=252) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:19:32,586] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:19:32,587] {logging_mixin.py:104} INFO - [2021-02-17 04:19:32,587] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:19:32,604] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:19:32,639] {logging_mixin.py:104} INFO - [2021-02-17 04:19:32,638] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:19:32,664] {logging_mixin.py:104} INFO - [2021-02-17 04:19:32,664] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:19:32,704] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.125 seconds
+[2021-02-17 04:20:02,794] {scheduler_job.py:182} INFO - Started process (PID=257) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:20:02,796] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:20:02,797] {logging_mixin.py:104} INFO - [2021-02-17 04:20:02,797] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:20:02,814] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:20:02,848] {logging_mixin.py:104} INFO - [2021-02-17 04:20:02,847] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:20:02,871] {logging_mixin.py:104} INFO - [2021-02-17 04:20:02,871] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:20:02,930] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.141 seconds
+[2021-02-17 04:20:33,022] {scheduler_job.py:182} INFO - Started process (PID=262) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:20:33,054] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:20:33,056] {logging_mixin.py:104} INFO - [2021-02-17 04:20:33,055] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:20:33,074] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:20:33,114] {logging_mixin.py:104} INFO - [2021-02-17 04:20:33,114] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:20:33,140] {logging_mixin.py:104} INFO - [2021-02-17 04:20:33,140] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:20:33,175] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.159 seconds
+[2021-02-17 04:21:03,267] {scheduler_job.py:182} INFO - Started process (PID=267) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:21:03,270] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:21:03,271] {logging_mixin.py:104} INFO - [2021-02-17 04:21:03,271] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:21:03,286] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:21:03,321] {logging_mixin.py:104} INFO - [2021-02-17 04:21:03,320] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:21:03,345] {logging_mixin.py:104} INFO - [2021-02-17 04:21:03,345] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:21:03,404] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.142 seconds
+[2021-02-17 04:21:33,487] {scheduler_job.py:182} INFO - Started process (PID=272) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:21:33,489] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:21:33,490] {logging_mixin.py:104} INFO - [2021-02-17 04:21:33,490] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:21:33,506] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:21:33,545] {logging_mixin.py:104} INFO - [2021-02-17 04:21:33,545] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:21:33,572] {logging_mixin.py:104} INFO - [2021-02-17 04:21:33,572] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:21:33,592] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.111 seconds
+[2021-02-17 04:22:03,680] {scheduler_job.py:182} INFO - Started process (PID=277) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:22:03,731] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:22:03,733] {logging_mixin.py:104} INFO - [2021-02-17 04:22:03,733] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:22:03,753] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:22:03,789] {logging_mixin.py:104} INFO - [2021-02-17 04:22:03,788] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:22:03,813] {logging_mixin.py:104} INFO - [2021-02-17 04:22:03,813] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:22:03,849] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.177 seconds
+[2021-02-17 04:22:33,933] {scheduler_job.py:182} INFO - Started process (PID=282) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:22:33,935] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:22:33,936] {logging_mixin.py:104} INFO - [2021-02-17 04:22:33,935] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:22:33,952] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:22:33,987] {logging_mixin.py:104} INFO - [2021-02-17 04:22:33,986] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:22:34,010] {logging_mixin.py:104} INFO - [2021-02-17 04:22:34,010] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:22:34,057] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.130 seconds
+[2021-02-17 04:23:04,155] {scheduler_job.py:182} INFO - Started process (PID=287) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:23:04,157] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:23:04,158] {logging_mixin.py:104} INFO - [2021-02-17 04:23:04,158] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:23:04,174] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:23:04,208] {logging_mixin.py:104} INFO - [2021-02-17 04:23:04,208] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:23:04,231] {logging_mixin.py:104} INFO - [2021-02-17 04:23:04,231] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:23:04,283] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.133 seconds
+[2021-02-17 04:23:34,375] {scheduler_job.py:182} INFO - Started process (PID=292) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:23:34,377] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:23:34,378] {logging_mixin.py:104} INFO - [2021-02-17 04:23:34,378] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:23:34,394] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:23:34,432] {logging_mixin.py:104} INFO - [2021-02-17 04:23:34,432] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:23:34,456] {logging_mixin.py:104} INFO - [2021-02-17 04:23:34,455] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:23:34,502] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.133 seconds
+[2021-02-17 04:24:04,591] {scheduler_job.py:182} INFO - Started process (PID=297) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:24:04,593] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:24:04,594] {logging_mixin.py:104} INFO - [2021-02-17 04:24:04,594] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:24:04,609] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:24:04,644] {logging_mixin.py:104} INFO - [2021-02-17 04:24:04,644] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:24:04,668] {logging_mixin.py:104} INFO - [2021-02-17 04:24:04,668] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:24:04,701] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.115 seconds
+[2021-02-17 04:24:34,792] {scheduler_job.py:182} INFO - Started process (PID=302) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:24:34,794] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:24:34,795] {logging_mixin.py:104} INFO - [2021-02-17 04:24:34,794] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:24:34,810] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:24:34,843] {logging_mixin.py:104} INFO - [2021-02-17 04:24:34,843] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:24:34,867] {logging_mixin.py:104} INFO - [2021-02-17 04:24:34,867] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:24:34,937] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.151 seconds
+[2021-02-17 04:25:05,029] {scheduler_job.py:182} INFO - Started process (PID=307) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:25:05,030] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:25:05,031] {logging_mixin.py:104} INFO - [2021-02-17 04:25:05,031] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:25:05,047] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:25:05,081] {logging_mixin.py:104} INFO - [2021-02-17 04:25:05,080] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:25:05,104] {logging_mixin.py:104} INFO - [2021-02-17 04:25:05,104] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:25:05,128] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.105 seconds
+[2021-02-17 04:25:35,165] {scheduler_job.py:182} INFO - Started process (PID=312) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:25:35,201] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:25:35,203] {logging_mixin.py:104} INFO - [2021-02-17 04:25:35,203] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:25:35,222] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:25:35,254] {logging_mixin.py:104} INFO - [2021-02-17 04:25:35,254] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:25:35,278] {logging_mixin.py:104} INFO - [2021-02-17 04:25:35,278] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:25:35,311] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.152 seconds
+[2021-02-17 04:26:05,405] {scheduler_job.py:182} INFO - Started process (PID=317) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:26:05,407] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:26:05,408] {logging_mixin.py:104} INFO - [2021-02-17 04:26:05,408] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:26:05,425] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:26:05,460] {logging_mixin.py:104} INFO - [2021-02-17 04:26:05,460] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:26:05,484] {logging_mixin.py:104} INFO - [2021-02-17 04:26:05,483] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:26:05,519] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.121 seconds
+[2021-02-17 04:26:35,609] {scheduler_job.py:182} INFO - Started process (PID=322) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:26:35,611] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:26:35,612] {logging_mixin.py:104} INFO - [2021-02-17 04:26:35,612] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:26:35,627] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:26:35,662] {logging_mixin.py:104} INFO - [2021-02-17 04:26:35,662] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:26:35,688] {logging_mixin.py:104} INFO - [2021-02-17 04:26:35,688] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:26:35,713] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.110 seconds
+[2021-02-17 04:27:05,803] {scheduler_job.py:182} INFO - Started process (PID=327) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:27:05,805] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:27:05,806] {logging_mixin.py:104} INFO - [2021-02-17 04:27:05,805] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:27:05,821] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:27:05,855] {logging_mixin.py:104} INFO - [2021-02-17 04:27:05,855] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:27:05,926] {logging_mixin.py:104} INFO - [2021-02-17 04:27:05,926] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:27:06,057] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.260 seconds
+[2021-02-17 04:27:36,154] {scheduler_job.py:182} INFO - Started process (PID=332) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:27:36,156] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:27:36,157] {logging_mixin.py:104} INFO - [2021-02-17 04:27:36,157] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:27:36,172] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:27:36,207] {logging_mixin.py:104} INFO - [2021-02-17 04:27:36,207] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:27:36,231] {logging_mixin.py:104} INFO - [2021-02-17 04:27:36,231] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:27:36,265] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.116 seconds
+[2021-02-17 04:28:06,334] {scheduler_job.py:182} INFO - Started process (PID=337) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:28:06,336] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:28:06,337] {logging_mixin.py:104} INFO - [2021-02-17 04:28:06,337] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:28:06,352] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:28:06,385] {logging_mixin.py:104} INFO - [2021-02-17 04:28:06,385] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:28:06,410] {logging_mixin.py:104} INFO - [2021-02-17 04:28:06,410] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:28:06,452] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.124 seconds
+[2021-02-17 04:28:36,553] {scheduler_job.py:182} INFO - Started process (PID=342) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:28:36,556] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:28:36,557] {logging_mixin.py:104} INFO - [2021-02-17 04:28:36,557] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:28:36,576] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:28:36,611] {logging_mixin.py:104} INFO - [2021-02-17 04:28:36,611] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:28:36,637] {logging_mixin.py:104} INFO - [2021-02-17 04:28:36,636] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:28:36,659] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.113 seconds
+[2021-02-17 04:29:06,753] {scheduler_job.py:182} INFO - Started process (PID=347) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:29:06,755] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:29:06,756] {logging_mixin.py:104} INFO - [2021-02-17 04:29:06,756] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:29:06,772] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:29:06,807] {logging_mixin.py:104} INFO - [2021-02-17 04:29:06,807] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:29:06,831] {logging_mixin.py:104} INFO - [2021-02-17 04:29:06,831] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:29:06,872] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.124 seconds
+[2021-02-17 04:29:36,912] {scheduler_job.py:182} INFO - Started process (PID=352) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:29:36,915] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:29:36,916] {logging_mixin.py:104} INFO - [2021-02-17 04:29:36,916] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:29:36,932] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:29:36,966] {logging_mixin.py:104} INFO - [2021-02-17 04:29:36,966] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:29:36,991] {logging_mixin.py:104} INFO - [2021-02-17 04:29:36,991] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:29:37,023] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.118 seconds
+[2021-02-17 04:30:07,089] {scheduler_job.py:182} INFO - Started process (PID=357) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:30:07,091] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:30:07,092] {logging_mixin.py:104} INFO - [2021-02-17 04:30:07,092] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:30:07,107] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:30:07,141] {logging_mixin.py:104} INFO - [2021-02-17 04:30:07,141] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:30:07,165] {logging_mixin.py:104} INFO - [2021-02-17 04:30:07,165] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:30:07,203] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.120 seconds
+[2021-02-17 04:30:37,246] {scheduler_job.py:182} INFO - Started process (PID=362) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:30:37,247] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:30:37,248] {logging_mixin.py:104} INFO - [2021-02-17 04:30:37,248] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:30:37,264] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:30:37,297] {logging_mixin.py:104} INFO - [2021-02-17 04:30:37,297] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:30:37,321] {logging_mixin.py:104} INFO - [2021-02-17 04:30:37,321] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:30:37,360] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.120 seconds
+[2021-02-17 04:31:07,418] {scheduler_job.py:182} INFO - Started process (PID=367) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:31:07,488] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:31:07,495] {logging_mixin.py:104} INFO - [2021-02-17 04:31:07,494] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:31:07,513] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:31:07,545] {logging_mixin.py:104} INFO - [2021-02-17 04:31:07,545] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:31:07,569] {logging_mixin.py:104} INFO - [2021-02-17 04:31:07,569] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:31:07,591] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.179 seconds
+[2021-02-17 04:31:37,684] {scheduler_job.py:182} INFO - Started process (PID=372) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:31:37,686] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:31:37,687] {logging_mixin.py:104} INFO - [2021-02-17 04:31:37,687] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:31:37,703] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:31:37,735] {logging_mixin.py:104} INFO - [2021-02-17 04:31:37,735] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:31:37,759] {logging_mixin.py:104} INFO - [2021-02-17 04:31:37,759] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:31:37,795] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.116 seconds
+[2021-02-17 04:32:07,891] {scheduler_job.py:182} INFO - Started process (PID=377) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:32:07,893] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:32:07,894] {logging_mixin.py:104} INFO - [2021-02-17 04:32:07,894] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:32:07,911] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:32:07,946] {logging_mixin.py:104} INFO - [2021-02-17 04:32:07,946] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:32:07,970] {logging_mixin.py:104} INFO - [2021-02-17 04:32:07,970] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:32:08,010] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.125 seconds
+[2021-02-17 04:32:38,099] {scheduler_job.py:182} INFO - Started process (PID=382) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:32:38,102] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:32:38,103] {logging_mixin.py:104} INFO - [2021-02-17 04:32:38,102] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:32:38,117] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:32:38,151] {logging_mixin.py:104} INFO - [2021-02-17 04:32:38,151] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:32:38,175] {logging_mixin.py:104} INFO - [2021-02-17 04:32:38,175] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:32:38,249] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.155 seconds
+[2021-02-17 04:33:08,346] {scheduler_job.py:182} INFO - Started process (PID=387) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:33:08,348] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:33:08,349] {logging_mixin.py:104} INFO - [2021-02-17 04:33:08,349] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:33:08,364] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:33:08,398] {logging_mixin.py:104} INFO - [2021-02-17 04:33:08,398] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:33:08,426] {logging_mixin.py:104} INFO - [2021-02-17 04:33:08,426] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:33:08,465] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.124 seconds
+[2021-02-17 04:33:38,506] {scheduler_job.py:182} INFO - Started process (PID=392) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:33:38,508] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:33:38,509] {logging_mixin.py:104} INFO - [2021-02-17 04:33:38,509] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:33:38,524] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:33:38,558] {logging_mixin.py:104} INFO - [2021-02-17 04:33:38,558] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:33:38,582] {logging_mixin.py:104} INFO - [2021-02-17 04:33:38,582] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:33:38,625] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.124 seconds
+[2021-02-17 04:34:08,693] {scheduler_job.py:182} INFO - Started process (PID=397) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:34:08,695] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:34:08,696] {logging_mixin.py:104} INFO - [2021-02-17 04:34:08,695] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:34:08,711] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:34:08,748] {logging_mixin.py:104} INFO - [2021-02-17 04:34:08,748] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:34:08,772] {logging_mixin.py:104} INFO - [2021-02-17 04:34:08,772] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:34:08,809] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.121 seconds
+[2021-02-17 04:34:38,853] {scheduler_job.py:182} INFO - Started process (PID=402) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:34:38,855] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:34:38,856] {logging_mixin.py:104} INFO - [2021-02-17 04:34:38,856] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:34:38,872] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:34:38,910] {logging_mixin.py:104} INFO - [2021-02-17 04:34:38,909] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:34:38,936] {logging_mixin.py:104} INFO - [2021-02-17 04:34:38,935] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:34:38,973] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.125 seconds
+[2021-02-17 04:35:09,066] {scheduler_job.py:182} INFO - Started process (PID=407) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:35:09,068] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:35:09,069] {logging_mixin.py:104} INFO - [2021-02-17 04:35:09,069] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:35:09,084] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:35:09,117] {logging_mixin.py:104} INFO - [2021-02-17 04:35:09,117] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:35:09,141] {logging_mixin.py:104} INFO - [2021-02-17 04:35:09,141] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:35:09,178] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.117 seconds
+[2021-02-17 04:35:39,275] {scheduler_job.py:182} INFO - Started process (PID=412) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:35:39,495] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:35:39,498] {logging_mixin.py:104} INFO - [2021-02-17 04:35:39,497] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:35:39,515] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:35:39,550] {logging_mixin.py:104} INFO - [2021-02-17 04:35:39,550] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:35:39,580] {logging_mixin.py:104} INFO - [2021-02-17 04:35:39,580] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:35:39,670] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.401 seconds
+[2021-02-17 04:36:09,761] {scheduler_job.py:182} INFO - Started process (PID=417) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:36:09,763] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:36:09,764] {logging_mixin.py:104} INFO - [2021-02-17 04:36:09,764] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:36:09,780] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:36:09,812] {logging_mixin.py:104} INFO - [2021-02-17 04:36:09,812] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:36:09,836] {logging_mixin.py:104} INFO - [2021-02-17 04:36:09,836] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:36:09,953] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.198 seconds
+[2021-02-17 04:36:40,044] {scheduler_job.py:182} INFO - Started process (PID=422) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:36:40,046] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:36:40,047] {logging_mixin.py:104} INFO - [2021-02-17 04:36:40,047] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:36:40,063] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:36:40,096] {logging_mixin.py:104} INFO - [2021-02-17 04:36:40,096] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:36:40,120] {logging_mixin.py:104} INFO - [2021-02-17 04:36:40,120] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:36:40,163] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.125 seconds
+[2021-02-17 04:37:10,270] {scheduler_job.py:182} INFO - Started process (PID=427) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:37:10,272] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:37:10,273] {logging_mixin.py:104} INFO - [2021-02-17 04:37:10,273] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:37:10,289] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:37:10,322] {logging_mixin.py:104} INFO - [2021-02-17 04:37:10,321] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-02-17 04:37:10,347] {logging_mixin.py:104} INFO - [2021-02-17 04:37:10,347] {dag.py:2273} INFO - Setting next_dagrun for tutorial to 2021-02-17 00:00:00+00:00
+[2021-02-17 04:37:10,596] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bash_operator.py took 0.331 seconds
+[2021-02-17 04:37:40,685] {scheduler_job.py:182} INFO - Started process (PID=432) to work on /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:37:40,687] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bash_operator.py for tasks to queue
+[2021-02-17 04:37:40,688] {logging_mixin.py:104} INFO - [2021-02-17 04:37:40,688] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:37:40,704] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /opt/airflow/dags/bash_operator.py
+[2021-02-17 04:37:41,938] {scheduler_job.py:193} ERROR - Got an exception! Propagating...
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 2336, in _wrap_pool_connect
+    return fn()
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/pool/base.py", line 364, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/pool/base.py", line 778, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/pool/base.py", line 495, in checkout
+    rec = pool._do_get()
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/pool/impl.py", line 140, in _do_get
+    self._dec_overflow()
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    with_traceback=exc_tb,
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/pool/impl.py", line 137, in _do_get
+    return self._create_connection()
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/pool/base.py", line 309, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/pool/base.py", line 440, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    with_traceback=exc_tb,
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/pool/base.py", line 656, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/engine/default.py", line 508, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/airflow/.local/lib/python3.6/site-packages/psycopg2/__init__.py", line 127, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: could not translate host name "postgres" to address: Temporary failure in name resolution
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/jobs/scheduler_job.py", line 187, in _run_file_processor
+    callback_requests=callback_requests,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/utils/session.py", line 65, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/jobs/scheduler_job.py", line 648, in process_file
+    dagbag.sync_to_db()
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/utils/session.py", line 65, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 552, in sync_to_db
+    for attempt in run_with_db_retries(logger=self.log):
+  File "/home/airflow/.local/lib/python3.6/site-packages/tenacity/__init__.py", line 390, in __iter__
+    do = self.iter(retry_state=retry_state)
+  File "/home/airflow/.local/lib/python3.6/site-packages/tenacity/__init__.py", line 368, in iter
+    raise retry_exc.reraise()
+  File "/home/airflow/.local/lib/python3.6/site-packages/tenacity/__init__.py", line 186, in reraise
+    raise self.last_attempt.result()
+  File "/usr/local/lib/python3.6/concurrent/futures/_base.py", line 425, in result
+    return self.__get_result()
+  File "/usr/local/lib/python3.6/concurrent/futures/_base.py", line 384, in __get_result
+    raise self._exception
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 564, in sync_to_db
+    serialize_errors.extend(_serialze_dag_capturing_errors(dag, session))
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 541, in _serialze_dag_capturing_errors
+    session=session,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/utils/session.py", line 62, in wrapper
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/serialized_dag.py", line 121, in write_dag
+    (timezone.utcnow() - timedelta(seconds=min_update_interval)) < cls.last_updated,
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/orm/query.py", line 3523, in scalar
+    ret = self.one()
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/orm/query.py", line 3490, in one
+    ret = self.one_or_none()
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/orm/query.py", line 3459, in one_or_none
+    ret = list(self)
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/orm/query.py", line 3535, in __iter__
+    return self._execute_and_instances(context)
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/orm/query.py", line 3557, in _execute_and_instances
+    querycontext, self._connection_from_session, close_with_result=True
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/orm/query.py", line 3572, in _get_bind_args
+    mapper=self._bind_mapper(), clause=querycontext.statement, **kw
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/orm/query.py", line 3550, in _connection_from_session
+    conn = self.session.connection(**kw)
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/orm/session.py", line 1145, in connection
+    execution_options=execution_options,
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/orm/session.py", line 1151, in _connection_for_bind
+    engine, execution_options
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/orm/session.py", line 433, in _connection_for_bind
+    conn = bind._contextual_connect()
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 2302, in _contextual_connect
+    self._wrap_pool_connect(self.pool.connect, None),
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 2340, in _wrap_pool_connect
+    e, dialect, self
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 1584, in _handle_dbapi_exception_noconnection
+    sqlalchemy_exception, with_traceback=exc_info[2], from_=e
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 2336, in _wrap_pool_connect
+    return fn()
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/pool/base.py", line 364, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/pool/base.py", line 778, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/pool/base.py", line 495, in checkout
+    rec = pool._do_get()
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/pool/impl.py", line 140, in _do_get
+    self._dec_overflow()
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    with_traceback=exc_tb,
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/pool/impl.py", line 137, in _do_get
+    return self._create_connection()
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/pool/base.py", line 309, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/pool/base.py", line 440, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    with_traceback=exc_tb,
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/pool/base.py", line 656, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/engine/default.py", line 508, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/airflow/.local/lib/python3.6/site-packages/psycopg2/__init__.py", line 127, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+sqlalchemy.exc.OperationalError: (psycopg2.OperationalError) could not translate host name "postgres" to address: Temporary failure in name resolution
+
+(Background on this error at: http://sqlalche.me/e/13/e3q8)
